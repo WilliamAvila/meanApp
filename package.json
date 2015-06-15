@@ -9,7 +9,10 @@
   "author": "William Avila",
   "license": "ISC",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.0",
     "express": "^4.12.4",
-    "mongoose": "^4.0.5"
+    "mongoose": "^4.0.5",
+    "morgan": "^1.6.0"
   }
 }
