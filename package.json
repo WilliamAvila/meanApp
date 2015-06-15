@@ -1,0 +1,15 @@
+{
+  "name": "postMachine",
+  "version": "1.0.0",
+  "description": "This an app about posts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Avila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "mongoose": "^4.0.5"
+  }
+}
